@@ -38,6 +38,7 @@ npm install react scripts --save
  - Firebase Firestore Database
  - React.js
  - Node.js
+ - Trello
 
 ## Repository Structure
 - `src`
